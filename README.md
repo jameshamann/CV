@@ -1,6 +1,7 @@
-## Your Name
+## James Hamann
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+My names James, I'm an aspiring full-stack developer looking for exciting opportunities to grow my skills. I have experience in the creative sector, with a degree in Music Technology as well as experience in working within small businesses.
+I am looking to join a team who are enthusiastic, keen and passionate about what they do.
 
 ## Skills
 
@@ -17,32 +18,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
+- I contributed to the growth of x while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2016 to November 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Passion to learn and create things
+- Keen problem solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Mocha, Chai
 
-#### Your University / College (start_date to end_date)
+#### University of Kent (September 2012 to July 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Music Technology - Achieved 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Customer Perspectives** (July 2015 to July 2016)    
+*New Business Development Executive*
+
+**Jones Bootmaker** (September 2010 to June 2012)   
+*Sales Assistant*  
