@@ -5,22 +5,17 @@ I am looking to join a team who are enthusiastic, keen and passionate about what
 
 ## Skills
 
-#### This Skill
+#### Teamwork and Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my previous job I was part of a small team and had to maintain constant communication in order to let the team manager know
+how the project was progressing. Through hard work and enthusiasm I was promoted to a more sales orientated role where I was
+communicating directly with clients on a regular basis. As the company was quite small, I found myself involved in multiple roles
+and being part of different teams, this improved my teamwork and communication skills massively and I now thrive within a team environment.
 
-- Experience
-- Achievements
-- Evidence
+#### Learning and Adapting
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of x while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I'm quite a fast learner and am very quick when adapting to changes. During my previous job, as I had the opportunity to work on different sides of the business, I was regularly asked to change tasks depending on the circumstance. This taught me how to adapt
+to changes and also helped me improve my learning process.
 
 ## Education
 
